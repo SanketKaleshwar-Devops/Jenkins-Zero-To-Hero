@@ -132,10 +132,4 @@ http://<ec2-instance-public-ip>:8080/restart
 The docker agent configuration is now successful.
 
 
-
-<<<<<<< HEAD
 sanket
-sanjsan
-=======
-
->>>>>>> parent of 10bb6b9 (sanket)
